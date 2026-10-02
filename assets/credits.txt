@@ -1,0 +1,36 @@
+# Code
+
+All code written by EkBass
+URL: https://github.com/EkBass
+LICENSE: MIT
+
+# Images
+
+Files: img/pairs/*.*
+All images generated or edited by Google Gemini, ChatGPT or EkBass somehow.
+
+
+# Audio
+
+File: lofi.mp3
+Author: ZephiraMusic
+URL: https://pixabay.com/music/scary-childrens-tunes-halloween-lofi-599381/
+
+File: pumpkin.mp3
+Author: geoffharvey
+URL: https://pixabay.com/music/scary-childrens-tunes-halloween-pumpkin-380909/
+
+File: halloween.mp3
+Author: HitsLab
+URL: https://pixabay.com/music/scary-childrens-tunes-halloween-halloween-music-594453/
+
+File: laugh.mp3
+Author: freesound_community
+URL: https://pixabay.com/sound-effects/people-possessed-laugh-94851/
+
+File: correct.mp3
+Author: xmer
+URL: https://pixabay.com/sound-effects/film-special-effects-soft-treble-win-fade-out-ending-sound-effect-416829/
+
+File: incorrect.mp3
+Same file as correct.mp3, but reversed.
